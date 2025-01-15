@@ -2,7 +2,7 @@
 
 <h1 align="center">👋 Hello there, I am Koustubh!!</h1>
 
-<h4 align="center">A Computer Science sophomore at VIT.</br>A Full Stack Developer and UI/UX Designer. </br>Passionate about Artificial Intelligence/Machine Learning.</h4>
+<h3 align="center">A Computer Science sophomore at VIT.</br>A Full Stack Developer and UI/UX Designer. </br>Passionate about Artificial Intelligence/Machine Learning.</h3>
 
 ###
 
