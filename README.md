@@ -1,14 +1,11 @@
-<br clear="both">
-
 <h1 align="center">👋 Hello there, I am Koustubh!!</h1>
+<div align="center">
+  <img height="250" src="https://i.pinimg.com/originals/fb/c6/f3/fbc6f31bd3b84159470b973aca7e0f97.gif"  />
+</div>
 
 <h3 align="center">A Computer Science sophomore at VIT.</br>A Full Stack Developer and UI/UX Designer. </br>Passionate about Artificial Intelligence/Machine Learning.</h3>
 
 ###
-
-<div align="center">
-  <img height="250" src="https://i.pinimg.com/originals/fb/c6/f3/fbc6f31bd3b84159470b973aca7e0f97.gif"  />
-</div>
 
 # 💻 Tech Stack:
 <img src="https://raw.githubusercontent.com/wurtz-codez/wurtz-codez/output/snake.svg" alt="Snake animation" />
