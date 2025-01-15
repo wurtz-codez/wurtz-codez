@@ -6,7 +6,7 @@
 
 <br clear="both">
 
-<h4 align="center">A Computer Science sophomore at VIT, passionate about Full Stack Development and Artificial Intelligence/Machine Learning.<br>Interested in projects that combine creativity with technology, exploring innovative solutions, and sharing my journey along the way.</h4>
+<h4 align="center">A Computer Science sophomore at VIT.</br>A Full Stack Developer and UI/UX Designer. </br>Passionate about Artificial Intelligence/Machine Learning.</h4>
 
 ###
 
