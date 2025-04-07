@@ -1,13 +1,18 @@
 <br clear="both">
 
-<img align="left" height="150" src="https://camo.githubusercontent.com/f110d81f681e9003ba1d289df38ab63e4e25854c6d9af7d406ebb742406048fc/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f66622f63362f66332f66626336663331626433623834313539343730623937336163613765306639372e676966"  />
+<h2 align="center">👋 Hey there, I'm Koustubh!!</h2>
 
 ###
 
-<h2 align="center">👋 Hey there, I'm Koustubh!!</h2>
+<br clear="both">
 
+<div align="center">
+  <img height="150" src="https://camo.githubusercontent.com/f110d81f681e9003ba1d289df38ab63e4e25854c6d9af7d406ebb742406048fc/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f66622f63362f66332f66626336663331626433623834313539343730623937336163613765306639372e676966"  />
+</div>
 
-<h5 align="center">Computer Science sophomore at VIT.<br>An aspiring Full Stack Developer, UI/UX Designer and an AIML Enthusiast.</h5>
+###
+
+<h5 align="center">A Computer Science sophomore at VIT.<br>An aspiring Full Stack Developer, UI/UX Designer and an AIML Enthusiast.</h5>
 
 ###
 
