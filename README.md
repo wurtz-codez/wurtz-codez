@@ -1,3 +1,5 @@
+<br clear="both">
+
 <img align="left" height="150" src="https://camo.githubusercontent.com/f110d81f681e9003ba1d289df38ab63e4e25854c6d9af7d406ebb742406048fc/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f66622f63362f66332f66626336663331626433623834313539343730623937336163613765306639372e676966"  />
 
 ###
@@ -60,10 +62,12 @@
 
 ###
 
+<br clear="both">
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wurtz-codez&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wurtz-codez&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=true&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=wurtz-codez&locale=en&mode=daily&theme=gotham&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=wurtz-codez&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=true&order=1" height="150" alt="stats graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wurtz-codez&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=true&order=2" height="150" alt="languages graph" /> <br>
+  <img src="https://streak-stats.demolab.com?user=wurtz-codez&locale=en&mode=daily&theme=gotham&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph" /> <br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=wurtz-codez&radius=16&theme=gotham&area=true&order=5&hide_border=true" height="300" alt="activity-graph graph"  />
 </div>
 
