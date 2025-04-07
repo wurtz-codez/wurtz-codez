@@ -6,7 +6,6 @@
 
 <h2 align="center">👋 Hey there, I'm Koustubh!!</h2>
 
-###
 
 <h5 align="center">Computer Science sophomore at VIT.<br>An aspiring Full Stack Developer, UI/UX Designer and an AIML Enthusiast.</h5>
 
