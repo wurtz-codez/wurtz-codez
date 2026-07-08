@@ -9,7 +9,7 @@
 
 ###
 
-<h4 align="center">A Computer Science sophomore at VIT.<br>An aspiring Full Stack Developer, UI/UX Designer and an AIML Enthusiast.</h4>
+<h4 align="center">A CS Undergrad.<br>Full Stack Developer, AI Engineer, UI/UX Designer and an AIML Enthusiast.<br>National Level Hackathon Winner</h4>
 
 ###
 
